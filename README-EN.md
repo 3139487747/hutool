@@ -59,9 +59,9 @@
 
 ### 🎁Origin of the 'Hutool' name
 
-**Hutool = Hu + tool**，Is the original company project after the stripping of the underlying code of the open source library , "Hu" is the short name of the company , 'tool' that tool .
+**Hutool = Hu + tool**，Is the original company project after the stripping of the underlying code of the open source library, "Hu" is the short name of the company , 'tool' that tool .
 
-Hutool,' Hútú '(Chinese Pinyin)，On the one hand, it is simple and easy to understand, on the other hand, it means "hard to be confused".(note: confused means 'Hútú (糊涂)' in china )
+Hutool,' Hútú '(Chinese Pinyin), on the one hand, it is simple and easy to understand, on the other hand, it means "hard to be confused".(note: confused means 'Hútú (糊涂)' in china )
 
 ### 🍺How Hutool is changing the way we code
 
